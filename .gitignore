@@ -1,0 +1,25 @@
+# Compilados Java
+*.class
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+
+# Arquivos de IDEs
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do OneDrive
+*.tmp
+~$*
+
+# Logs
+*.log
