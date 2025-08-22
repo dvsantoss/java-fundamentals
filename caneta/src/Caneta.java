@@ -1,5 +1,4 @@
 // classe e atributos (privado para o encapsulamento)
-
 import java.util.Scanner;
 
 public class Caneta {
